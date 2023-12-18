@@ -1,6 +1,6 @@
 ## Gustavo Henrique Mendes Ribeiro
 ### Full Stack Developer 
-  Developer focused on full stack technology. <br>
+  Developer focused in full stack technology. <br>
 
 - 📖 Currently studying Computer Science at Estácio; <br>
 - 📚 Currently studying front-end specifically javascript; <br>
