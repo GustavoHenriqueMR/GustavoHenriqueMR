@@ -1,6 +1,6 @@
 ## Gustavo Henrique Mendes Ribeiro
-### Front End Developer 
-  Developer focused in front end technology. <br>
+### Frontend Developer 
+  Developer focused in frontend technology. <br>
 
 - 📖 Currently studying Computer Science at Estácio; <br>
 - 📚 Currently studying front-end specifically javascript; <br>
