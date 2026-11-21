@@ -2,7 +2,7 @@
 ### Frontend Developer 
   Developer focused in frontend technology. <br>
 
-- 📖 Currently studying Computer Science at Estácio; <br>
+- 📖 Graduated in Computer Science; <br>
 - 📚 Currently studying front-end specifically javascript; <br>
 - 🔭 Always searching to increase my knowledge; <br>  
 ##
